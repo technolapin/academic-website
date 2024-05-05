@@ -18,4 +18,3 @@
 One of the goals of my thesis was to find a nice method to extract points from conics intersections objects, in a 2D version of QCGA that we called QC2GA.
 It is when working on that specific problem that I realized that considering these objects as pencils of conics helped to understand and manipulate them.
 
-

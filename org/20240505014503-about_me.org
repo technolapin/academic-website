@@ -2,6 +2,7 @@
 :ID:       98b994d4-16ad-4ab8-b21e-e3fbae9fcf91
 :END:
 #+options: toc:nil num:nil
+
 #+title: About me
 
 My name is Clément Chomicki, am a 3rd year PhD student at Université Gustave Eiffel, France.
@@ -10,7 +11,9 @@ My main topics are geometric algebra and pencils of conics and spheres.
 
 You can find my publications [[id:1e4dd904-a69a-4cba-817d-256c4f74da28][here]].
 
-#+ATTR_HTML: :width 400px
+
+#+CAPTION: Hi that's me
+#+ATTR_HTML: :width 80%
 #+ATTR_HTML: :style border: 3px solid;
 [[../assets/images/selphie.png]]
 
