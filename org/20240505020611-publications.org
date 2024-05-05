@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1e4dd904-a69a-4cba-817d-256c4f74da28
+:END:
+#+options: toc:nil num:nil
+#+title: Publications
+
+
+
+* Intersection of conic sections using geometric algebra
+| authors    | Clément Chomicki, Stéphane Breuils, Venceslas Biri, Vincent Nozick. |
+| title      | Intersection of conic sections using geometric algebra.             |
+| conference | CGI ENGAGE 2023, Aug 2023, Shanghai, China. pp.175-187              |
+| DOI        | https://dx.doi.org/10.1007/978-3-031-50078-7_14                     |
+| HAL ID     | [[https://hal.science/hal-04210085][⟨hal-04210085⟩]]                                                 |
+
+** Comments
+
+One of the goals of my thesis was to find a nice method to extract points from conics intersections objects, in a 2D version of QCGA that we called QC2GA.
+It is when working on that specific problem that I realized that considering these objects as pencils of conics helped to understand and manipulate them.
+
+

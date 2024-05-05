@@ -1,0 +1,8 @@
+#+OPTIONS: ^:nil author:nil html-postamble:nil
+#+SETUPFILE: ./simple_inline.theme
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../assets/css/wiki.css" />
+#+TITLE: Roam notes
+
+- [[file:20240505014503-about_me.org][About me]]
+- [[file:20240505020611-publications.org][Publications]]
+#+ATTR_HTML: :width 100px[[../assets/images/selphie.png]]
