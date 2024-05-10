@@ -31,3 +31,5 @@ Université Gustave Eiffel Cite DESCARTES,
 5 boulevard Descartes 77454 Marne-la-Vallée CEDEX 2 France
 #+end_example
 
+** Discord
+If you prefer, you can contact me on [[https://discordapp.com/users/90066297123000320][discord]].
