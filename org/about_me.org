@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       98b994d4-16ad-4ab8-b21e-e3fbae9fcf91
+:END:
+#+options: toc:nil num:nil
+
+#+title: About me
+
+My name is Clément Chomicki, am a 3rd year PhD student at Université Gustave Eiffel, France.
+
+My main topics are geometric algebra and pencils of conics and spheres.
+
+You can find my publications [[id:1e4dd904-a69a-4cba-817d-256c4f74da28][here]].
+
+
+#+CAPTION: Hi that's me
+#+ATTR_HTML: :width 80% :max-width 500px
+#+ATTR_HTML: :style border: 3px solid;
+[[../assets/images/selphie.png]]
+
+
+* Where to find me?
+** email
+#+begin_example
+clement.chomicki (a) univ-eiffel.fr
+#+end_example
+
+** Address
+#+begin_example
+Laboratoire d'informatique Gaspard Monge
+Université Gustave Eiffel Cite DESCARTES,
+5 boulevard Descartes 77454 Marne-la-Vallée CEDEX 2 France
+#+end_example
+
+** Discord
+If you prefer, you can contact me on [[https://discordapp.com/users/90066297123000320][discord]].

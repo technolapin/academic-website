@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       1e4dd904-a69a-4cba-817d-256c4f74da28
+:END:
+#+options: toc:nil num:nil
+#+title: Publications
+
+
+
+* Intersection of conic sections using geometric algebra
+| authors    | Clément Chomicki, Stéphane Breuils, Venceslas Biri, Vincent Nozick. |
+| title      | Intersection of conic sections using geometric algebra.             |
+| conference | CGI ENGAGE 2023, Aug 2023, Shanghai, China. pp.175-187              |
+| DOI        | https://dx.doi.org/10.1007/978-3-031-50078-7_14                     |
+| HAL ID     | [[https://hal.science/hal-04210085][⟨hal-04210085⟩]]                                                 |
+
+** Comments
+
+One of the goals of my thesis was to find a nice method to extract points from conics intersections objects, in a 2D version of QCGA that we called QC2GA.
+It is when working on that specific problem that I realized that considering these objects as pencils of conics helped to understand and manipulate them.
+This paper received the best presentation award of ENGAGE, and a extension will be published in the journal AACA very soon.
+
+
+* Pencils of CGA for Voronoi and Power Diagrams
+| authors    | Clément Chomicki, Stéphane Breuils, Venceslas Biri, Vincent Nozick. |
+| title      | Pencils of CGA for Voronoi and Power Diagrams.                      |
+| conference | CGI ENGAGE 2024, Jul 2024, Geneva, Switzerland.           |
+| DOI        | incomming                                                           |
+| HAL ID     | [[https://hal.science/hal-04636752v1][⟨hal-04636752⟩]]                                                        |
+
+** Comments
+We realized that pencils of circles are very convenient to compute the interface of two Voronoi Diagram cells. This also generalizes to any Power diagram with or without multiplicative weight.* Pencils and set operators in 3D CGA
+The paper have been accepted and presented at the conference, but we are waiting for it to be published.
+
+* Pencils and set operators in 3D CGA
+
+| authors    | Clément Chomicki, Stéphane Breuils, Venceslas Biri, Vincent Nozick. |
+| title      | PENCILS AND SET OPERATORS IN 3D CGA.                      |
+| conference | AGACSE 2024, Aug 2024, Amsterdam, Netherlands.           |
+| DOI        | incomming                                                           |
+| HAL ID     | [[https://hal.science/hal-04569529v1][⟨hal-04569529⟩]]                                                                                                      |
+
+We applied the pencils frameworks to circles of 3D CGA, who are \(2\)-pencils of spheres. All these results probably generalize to pencils of higher order, but this has not been tested yet.
+
+The paper have been accepted and presented at the conference, but we are waiting for it to be published.
+
+
+
+

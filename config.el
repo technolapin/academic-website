@@ -77,7 +77,11 @@
 ; allows to have a body when capturing a node (with firefox for instance)
 ; cf https://org-roam.discourse.group/t/org-roam-protocol-not-appending-body/2694/3
 (setq org-roam-capture-ref-templates
-      '(("r" "ref" plain
+      '(("d" "default" plain
+         "%?"
+         :if-new (file+head "${slug}.org" "#+title: ${title}\n")
+         :unnarrowed t)
+        ("r" "ref" plain
          "%?"
          :target
          (file+head "${slug}.org" "#+title: ${title}\n[[${ref}][link]]\n\n${body}")
