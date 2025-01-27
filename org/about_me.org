@@ -5,11 +5,16 @@
 
 #+title: About me
 
-My name is Clément Chomicki, am a 3rd year PhD student at Université Gustave Eiffel, France.
+# My name is Clément Chomicki, am a 3rd year PhD student at Université Gustave Eiffel, France.
+
+# My main topics are geometric algebra and pencils of conics and spheres.
+
+My name is Clément Chomicki, am a postdoctoral researcher at Kyushu University, Japan.
 
 My main topics are geometric algebra and pencils of conics and spheres.
 
 You can find my publications [[id:1e4dd904-a69a-4cba-817d-256c4f74da28][here]].
+
 
 
 #+CAPTION: Hi that's me
@@ -23,8 +28,9 @@ You can find my publications [[id:1e4dd904-a69a-4cba-817d-256c4f74da28][here]].
 #+begin_example
 clement.chomicki (a) univ-eiffel.fr
 #+end_example
+Soon to be changed but still working.
 
-** Address
+** Address :noexport:
 #+begin_example
 Laboratoire d'informatique Gaspard Monge
 Université Gustave Eiffel Cite DESCARTES,
